@@ -1,0 +1,255 @@
+K= 1
+[<s>, kiều, nhi, phận, mỏng, cánh, đào]
+[<s>, một, thời, đã, có, duyên, tao_ngộ, người, </s>]
+
+
+K= 1
+[<s>, vân, hà, ao_ước, say_mê]
+[<s>, một, thời, đã, có, duyên, về, với, quê, </s>]
+
+
+K= 1
+[<s>, cha, đi, biền_biệt, chẳng, hay]
+[<s>, để, cho, ai, nhớ, ai, say, lòng, người, </s>]
+
+
+K= 1
+[<s>, mẹ, ơi, mẹ, hỡi, gió, cào]
+[<s>, con, đường, cũ, sóng, cồn, bao_nhiêu, là, </s>]
+
+
+K= 1
+[<s>, thầy, u, chưa, biết, buồn, trông]
+[<s>, em, về, quê, mẹ, mà, không, có, gì, </s>]
+
+
+K= 1
+[<s>, cô, thôn_nữ, mắt_xanh, môi]
+[<s>, có, người, chinh_chiến, nay, thôi, cứ, gầy, </s>]
+
+
+K= 1
+[<s>, trường, sơn, ngày, ấy, em, bên]
+[<s>, em, về, quê, mẹ, mà, quên, bật_cười, </s>]
+
+
+K= 1
+[<s>, lớp, trường, bụi, phấn, rơi, bay]
+[<s>, em, về, quê, mẹ, mà, nay, củi, người, </s>]
+
+
+K= 1
+[<s>, nước, trong, ngần, tiếng, ca, vang]
+[<s>, em, về, quê, mẹ, mà, sang, chơi, nhà, </s>]
+
+
+K= 1
+[<s>, người, ơi, người_ở, đừng, về]
+[<s>, để, cho, ai, nhớ, ai, mê, táo, thì, </s>]
+
+
+K= 1
+[<s>, làn, môi, ấm, của, bờ, vai]
+[<s>, chiều, nay, trời, đổ, cơn, ai, về, đều, </s>]
+
+
+K= 1
+[<s>, tiếng, cười, bay, lả, bay, la]
+[<s>, mẹ, ơi, mẹ, hỡi, gió, qua, cầu, còn, </s>]
+
+
+K= 1
+[<s>, ngọc, hoàng, cao_tuổi, hay, quên]
+[<s>, đã, qua, rồi, chuyện, của, lên, trời, thành, </s>]
+
+
+K= 1
+[<s>, tuyết, rơi, nhè_nhẹ, bay, bay]
+[<s>, có, người, chinh_chiến, dạn_dày, gió, sương, </s>]
+
+
+K= 1
+[<s>, hoa, đào, càng, ngắm, càng, say]
+[<s>, một, thời, đã, có, duyên, này, thì, em, </s>]
+
+
+K= 1
+[<s>, mai, vàng, chờ, nắng, ngắm, sao]
+[<s>, em, về, quê, mẹ, mà, bao_nhiêu, là, </s>]
+
+
+K= 1
+[<s>, xuân, về, lại, cố_hương, em]
+[<s>, em, về, quê, mẹ, mà, xem, con, đường, </s>]
+
+
+K= 1
+[<s>, hạ, long, cảnh, đẹp, người, nhiều]
+[<s>, một, thời, đã, có, duyên, chiều, nay, can, </s>]
+
+
+K= 1
+[<s>, thu, về, với, những, bài, ca]
+[<s>, em, về, quê, mẹ, mà, ra, phụ, lòng, </s>]
+
+
+K= 1
+[<s>, đông, về, ai, có, biết, không]
+[<s>, có, người, chinh_chiến, nay, sông, quê, mình, </s>]
+
+
+K= 1
+[<s>, ngày, nào, cũng, đẹp, giàu, nghèo]
+[<s>, ai, về, thăm, lại, chốn, theo, gió, lành, </s>]
+
+
+K= 1
+[<s>, đường, về, đây, hội_tụ, muôn]
+[<s>, em, về, quê, mẹ, mà, buồn, chẳng, ai, </s>]
+
+
+K= 1
+[<s>, anh, về, với, những, bài, ca]
+[<s>, em, về, quê, mẹ, mà, ra, phụ, lòng, </s>]
+
+
+K= 1
+[<s>, chị, tôi, gói, lại, bao, điều]
+[<s>, nhớ, ngày, giỗ, tổ, mùng, chiều, nay, can, </s>]
+
+
+K= 1
+[<s>, em, về, quê, mẹ, mà, lòng]
+[<s>, em, về, quê, mẹ, mà, mong, châu, về, </s>]
+
+
+K= 1
+[<s>, con, đường, cũ, bẽ_bàng, duyên]
+[<s>, để, cho, ai, nhớ, ai, thuyền, ai, hay, </s>]
+
+
+K= 1
+[<s>, bạn, ơi, trăng, hoá, dòng_sông]
+[<s>, con, đường, cũ, sóng, cồn, hồng, tươi, xanh, </s>]
+
+
+K= 1
+[<s>, ông, trời, xanh, cũng, khéo, thêu]
+[<s>, để, cho, ai, nhớ, ai, rêu_phong, người, </s>]
+
+
+K= 1
+[<s>, bà, ru, cháu, dịu, êm, hương]
+[<s>, lời, ru, của, mẹ, mãi, trường_tồn, em, </s>]
+
+
+K= 1
+[<s>, nào, ai, biết, được, chữ, ngờ]
+[<s>, để, cho, ai, nhớ, ai, chờ, ai, ai, </s>]
+
+
+K= 1
+[<s>, có, người, chinh_chiến, dạn_dày]
+[<s>, có, người, chinh_chiến, nay, thày, chẳng, ai, </s>]
+
+
+K= 1
+[<s>, ai, về, thăm, lại, bồi_hồi]
+[<s>, để, cho, ai, nhớ, ai, rồi, lại, lo, </s>]
+
+
+K= 1
+[<s>, đi, tìm, báu_vật, về, thăm]
+[<s>, em, về, quê, mẹ, mà, năm, ấy, mình, </s>]
+
+
+K= 1
+[<s>, cỏ, xanh, mộc_mạc, mặn_mà]
+[<s>, một, thời, đã, có, duyên, ta, lại, về, </s>]
+
+
+K= 1
+[<s>, lộc, vừng, hiển_hiện, trên, đời]
+[<s>, mẹ, ơi, mẹ, hỡi, gió, trời, chẳng, se, </s>]
+
+
+K= 1
+[<s>, non, cao, biển, rộng, bao_la]
+[<s>, về, thăm, lại, chốn, xưa, xa, hiện, về, </s>]
+
+
+K= 1
+[<s>, xanh, trong, bên, đục, cùng, trôi]
+[<s>, để, cho, ai, nhớ, ai, rồi, lại, lo, </s>]
+
+
+K= 1
+[<s>, hồng, tươi, mái, ngói, ba, gian]
+[<s>, trời, xanh, mây, trắng, về, ngàn_vạn, em, </s>]
+
+
+K= 1
+[<s>, mai, vàng, chờ, nắng, ngắm, sao]
+[<s>, em, về, quê, mẹ, mà, bao_nhiêu, là, </s>]
+
+
+K= 1
+[<s>, đào, phai, chúm_chím, mai, vàng]
+[<s>, một, thời, đã, có, duyên, làng, quê, ta, </s>]
+
+
+K= 1
+[<s>, đêm, nay, có, chuyện, chỉ, tung]
+[<s>, em, về, quê, mẹ, mà, lung_linh, ngàn, </s>]
+
+
+K= 1
+[<s>, việt, nam, quân_đội, anh_hùng]
+[<s>, bao, năm, anh, vẫn, cứ, chung_chiêng, người, </s>]
+
+
+K= 1
+[<s>, nam, tào, chưa, duyệt, còn, may]
+[<s>, còn, đâu, hỡi, bến, sông, này, là, em, </s>]
+
+
+K= 1
+[<s>, đảo, xa, nào, thiếu_gì, đâu]
+[<s>, để, cho, ai, nhớ, ai, câu_thơ, buồn, </s>]
+
+
+K= 1
+[<s>, hoàng, sa, biển, nhớ, ghi, sâu]
+[<s>, em, về, quê, mẹ, mà, đâu, có, ngờ, </s>]
+
+
+K= 1
+[<s>, sơn, ai, có, biết, không, còn]
+[<s>, có, người, chinh_chiến, nay, con, của, làng, </s>]
+
+
+K= 1
+[<s>, học, bài, không, thuộc, thầy_cô]
+[<s>, bây_giờ, còn, đó, ai, hồ, nước, trong, </s>]
+
+
+K= 1
+[<s>, sen, hồng, thả, bước, triền, đê]
+[<s>, theo, dòng, nước, chảy, đôi, về, với, quê, </s>]
+
+
+K= 1
+[<s>, hát, ca, suốt, cả, cuộc_đời]
+[<s>, lời, ru, của, mẹ, mãi, trời, xanh, mây, </s>]
+
+
+K= 1
+[<s>, nhìn, em, anh, cứ, vấn_vương]
+[<s>, em, về, quê, mẹ, mà, thương, anh, về, </s>]
+
+
+K= 1
+[<s>, lòng, người, bí_ẩn, làn, sương]
+[<s>, em, về, quê, mẹ, mà, thương, anh, về, </s>]
+
+

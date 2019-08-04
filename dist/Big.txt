@@ -1,0 +1,23 @@
+﻿
+
+
+[<s>, nắng, vàng, trải, khắp, bốn_phương]
+[<s>, một, vùng, non_nước, khói_sương, bồi_hồi]
+
+
+[<s>, mẹ, là, một, bức, tranh, quê]
+[<s>, mẹ, ơi, con, sóng, vỗ, khuê, gửi, vào]
+
+
+[<s>, cha, đi, khắp, bốn_phương, trời]
+[<s>, về, thăm, quê, bạn, về, lời, yêu_thương]
+
+
+[<s>, thầy, đi, khắp, bốn_phương, trời]
+[<s>, mưa, xuân, qua, hạ, tới, nơi, chiến_trường]
+
+
+[<s>, trường, sơn, quản, bạ, hà, giang]
+[<s>, tường, đông, tàn, gió, lạnh, làng, quê, tôi]
+
+

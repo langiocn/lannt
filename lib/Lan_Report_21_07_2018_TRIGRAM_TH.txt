@@ -1,0 +1,250 @@
+[<s>, mẹ, là, ánh_sáng, dịu_dàng]
+[<s>, mẹ, là, một, bức, tranh, làng, quê, tôi, </s>]
+
+
+
+[<s>, lòng, con, xao_xuyến, vấn_vương]
+[<s>, nhớ, ngày, giỗ, tổ, tam, sương, giăng, mờ, </s>]
+
+
+
+[<s>, cha, đi, con, ngủ, cho, say]
+[<s>, con, về, thăm, mẹ, chiều, nay, trên, đời, </s>]
+
+
+
+[<s>, thầy, đi, khắp, bốn_phương, trời]
+[<s>, có, người, để, lại, cho, đời, hôm_nay, </s>]
+
+
+
+[<s>, cô, em, thắt, dải, lưng, xanh]
+[<s>, để, cho, ai, nhớ, ngày, hành, cước, phương, </s>]
+
+
+
+[<s>, trường, sa, biển, nhớ, ghi, sâu]
+[<s>, em, về, với, đất, lành, câu, chữ, tình, </s>]
+
+
+
+[<s>, lớp, trường, bụi, phấn, rơi, bay]
+[<s>, tôi, về, thăm, mẹ, chiều, nay, trên, đời, </s>]
+
+
+
+[<s>, nước, trong, xanh_mát, cánh, đồng]
+[<s>, thương, nhau, tý, xíu, cũng, không, thỏa, lòng, </s>]
+
+
+
+[<s>, người, mua, đứng, lặng, tần_ngần]
+[<s>, người, đi, xa, xứ, đông, thân, mẹ, hiền, </s>]
+
+
+
+[<s>, tiếng, tơ, tiếng, trúc, bên, đình]
+[<s>, ai, đi, xa, xứ, nghệ, tinh, tình, già, </s>]
+
+
+
+[<s>, tuyết, rơi, đạn_nổ, tứ_bề]
+[<s>, hương, đồng, gió, nội, cỏ, mê, mất, rồi, </s>]
+
+
+
+[<s>, hoa, xoan, rụng, tím, bên, thềm]
+[<s>, tình, thơ, quyện, chặt, hồn, đêm, qua, rồi, </s>]
+
+
+
+[<s>, mai, khoe, sắc, thắm, hương, nồng]
+[<s>, về, thăm, lại, chốn, xưa, sông, quê, mình, </s>]
+
+
+
+[<s>, anh, là, bộ_đội, cụ, hồ]
+[<s>, anh, đi, để, lại, bao, cô_gái, trồng, </s>]
+
+
+
+[<s>, xuân, về, hương, bưởi, hương, hồng]
+[<s>, một, vùng, cảnh, đẹp, thay, chồng, nuôi, con, </s>]
+
+
+
+[<s>, thu, về, mát_mẻ, dịu_dàng]
+[<s>, gió, đưa, thoang_thoảng, lá, vàng, trao, nghiêng, </s>]
+
+
+
+[<s>, hát, câu, lục_bát, bắc_cầu]
+[<s>, lời, ru, của, mẹ, in, sâu, đáy, lòng, </s>]
+
+
+
+[<s>, ngày, xuân, trẩy_hội, nước_non]
+[<s>, tiếng, chim, gọi, bạn, ơi, còn, nhớ, lâu, </s>]
+
+
+
+[<s>, đêm, nay, ở, phía, sau, mưa]
+[<s>, ta, về, thăm, lại, chốn, xưa, vẫn, còn, </s>]
+
+
+
+[<s>, lửa, lòng, rực, ánh, trăng, rằm]
+[<s>, còn, tôi, gối, chiếc, chăn, tằm, nhả, tơ, </s>]
+
+
+
+[<s>, đèn, chong, khắp, bốn_phương, trời]
+[<s>, thơ, anh, về, với, những, lời, mẹ, ru, </s>]
+
+
+
+[<s>, sáng, chiều, tắm, nắng, gội, mưa]
+[<s>, những, điều, trông, thấy, em, chưa, mỉm, cười, </s>]
+
+
+
+[<s>, tôi, về, tìm, lại, tuổi_thơ]
+[<s>, bao, năm, anh, vẫn, còn, ngờ, chiêm_bao, </s>]
+
+
+
+[<s>, em, là, con_gái, hậu_phương]
+[<s>, là, khi, anh, đến, bên, đường, hát, ca, </s>]
+
+
+
+[<s>, bạn, thơ, cất_tiếng, chúc_mừng]
+[<s>, cho, ta, gửi, bó, hoa, rừng, sắc, xuân, </s>]
+
+
+
+[<s>, quê, nghèo, lõm_bõm, tuổi_thơ]
+[<s>, sông, cầu, nước, chảy, lững_lờ, ngược_xuôi, </s>]
+
+
+
+[<s>, đường, làng, rộn_rã, tiếng, cười]
+[<s>, đêm, nay, ở, phía, sau, người, đi, xa, </s>]
+
+
+
+[<s>, biển, đông, vỗ, cánh, cò, bay]
+[<s>, cái, đêm, trăng, sáng, đôi, tay, giá, đồng, </s>]
+
+
+
+[<s>, nhà, cao, biển, rộng, sông, dài]
+[<s>, cũng, liều, ngọc, nát, hoa, nhài, bay, xa, </s>]
+
+
+
+[<s>, cỏ, non, xanh, mướt, bờ, đê]
+[<s>, vẫn, là, người, của, mẹ, về, cùng, nhau, </s>]
+
+
+
+[<s>, lúa, chiêm, dậy, sóng, không, lời]
+[<s>, nhìn, về, dãy, núi, mờ, hơi, ấm, lòng, </s>]
+
+
+
+[<s>, trong, nhà, đầy_ắp, tiếng, cười]
+[<s>, hoa, xoan, rụng, tím, bên, người, đi, xa, </s>]
+
+
+
+[<s>, trời, xanh, mây, trắng, bềnh_bồng]
+[<s>, xa, quê, thì, đã, lâu, không, có, gì, </s>]
+
+
+
+[<s>, nắng, xuân, rực_rỡ, thủ_đô]
+[<s>, xuân, qua, hạ, tới, trường, tô, môi, hồng, </s>]
+
+
+
+[<s>, mây, trôi, bèo, dạt, mây, trôi]
+[<s>, chiều, nay, trời, đổ, xuống, đôi, môi, hồng, </s>]
+
+
+
+[<s>, năm, năm, hùng_cứ, một, phương]
+[<s>, mà, nghe, tiếng, mẹ, ơi, thương, lắm, lời, </s>]
+
+
+
+[<s>, hỏi, ra, mới, biết, rằng, mình]
+[<s>, phải, đâu, tấm, lưới, em, xinh, tại, trời, </s>]
+
+
+
+[<s>, ta, về, tìm, lại, tuổi_thơ]
+[<s>, ngày, xuân, trẩy_hội, đền, thờ, nguyễn, du, </s>]
+
+
+
+[<s>, cả, đời, gắn_bó, học_sinh]
+[<s>, đường, vào, suối, yến, hẹn, mình, năm, sau, </s>]
+
+
+
+[<s>, bóng, em, ngả, dưới, rừng, xanh]
+[<s>, lá, xanh, ngỡ, sắc, hương, chanh, làm, bùi, </s>]
+
+
+
+[<s>, tóc, dài, hiển_hách, chiến_công]
+[<s>, đã, qua, rồi, cái, nợ, chồng, kiếp, sau, </s>]
+
+
+
+[<s>, xưa, em, gánh, nặng, đường, dài]
+[<s>, bây_giờ, tóc, đã, điểm, vài, bông, hoa, </s>]
+
+
+
+[<s>, nay, về, họp_mặt, sắt_son]
+[<s>, bâng_khuâng, xao_xuyến, như, con_một, nhà, </s>]
+
+
+
+[<s>, trăng, sao, vỡ, xuống, thế_là]
+[<s>, lòng, con, gió, dội, mưa, sa, biển, trời, </s>]
+
+
+
+[<s>, sao, em, chẳng, dám, nói, ra]
+[<s>, làm, tôi, mang, cả, nõn_nà, thanh_tân, </s>]
+
+
+
+[<s>, đi, đâu, cũng, đất, cũng, trời]
+[<s>, mưa, to, gió, lớn, lên, chơi, cửa, ngoài, </s>]
+
+
+
+[<s>, nhớ, ngày, giổ, tổ, mồng, mười]
+[<s>, cháu_con, hồng, lạc, bước, người, đi, xa, </s>]
+
+
+
+[<s>, ngoài, thềm, tý, tách, cà_phê]
+[<s>, từ, ngày, ra, đảo, chưa, về, quê_hương, </s>]
+
+
+
+[<s>, sống, vui, sống, khỏe, như, tiên]
+[<s>, mấy, lời, ru, của, mẹ, miền, gần_xa, </s>]
+
+
+
+[<s>, con, về, thăm, mẹ, chiều, nay]
+[<s>, bước, chân, thấp_thỏm, như, ngày, còn, thơ, </s>]
+
+
+

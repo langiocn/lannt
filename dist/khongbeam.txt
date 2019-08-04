@@ -1,0 +1,10 @@
+[<s>, nắng, vàng] -0.699
+
+[<s>, nắng, vàng, chiều] -2.443
+
+[<s>, nắng, vàng, chiều, tím] -4.596299999999999
+
+[<s>, nắng, vàng, chiều, tím, biếc] -6.1735
+
+[<s>, nắng, vàng, chiều, tím, biếc, chìm] -7.638
+

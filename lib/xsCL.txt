@@ -1,0 +1,35 @@
+[<s>, nắng, vàng] -0.699
+[<s>, nắng, xuân] -0.8502
+[<s>, nắng, chiều] -0.9294
+[<s>, nắng, hè] -1.1255
+[<s>, nắng, hồng] -2.0399
+
+
+[<s>, nắng, xuân, rực_rỡ] -2.1912
+[<s>, nắng, vàng, là] -2.443
+[<s>, nắng, vàng, rơi] -2.443
+[<s>, nắng, vàng, tươi] -2.443
+[<s>, nắng, vàng, trải] -2.443
+
+
+[<s>, nắng, vàng, trải, khắp] -3.0067
+[<s>, nắng, vàng, là, nắng] -3.0306
+[<s>, nắng, vàng, trải, nắng] -3.3986
+[<s>, nắng, xuân, rực_rỡ, thủ_đô] -3.5575
+[<s>, nắng, xuân, rực_rỡ, áo] -3.6556999999999995
+
+
+[<s>, nắng, xuân, rực_rỡ, thủ_đô] -3.5575
+[<s>, nắng, vàng, trải, khắp, miền] -3.9099
+[<s>, nắng, vàng, trải, khắp, mương] -3.9623
+[<s>, nắng, vàng, là, nắng, vàng] -4.2330000000000005
+[<s>, nắng, vàng, là, nắng, này] -4.3702000000000005
+
+
+[<s>, nắng, xuân, rực_rỡ, thủ_đô] -3.5575
+[<s>, nắng, vàng, trải, khắp, mương, khê] -4.3738
+[<s>, nắng, vàng, trải, khắp, miền, quê] -5.1965
+[<s>, nắng, vàng, là, nắng, này, là] -5.232600000000001
+[<s>, nắng, vàng, trải, khắp, miền, trung] -5.3933
+
+
